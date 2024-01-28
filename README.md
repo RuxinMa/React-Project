@@ -1,6 +1,6 @@
 ## Project Review
 
-This project was build with [netlify](https://roaring-longma-1ef079.netlify.app/).
+This project was build with [netlify](https://rm-react-project-booklist.netlify.app/).
 
 
 ## Project introduction
