@@ -1,11 +1,11 @@
-# Project Review
+## Project Review
 
 This project was build with [netlify](https://roaring-longma-1ef079.netlify.app/).
 
 
-# Project introduction
+## Project introduction
 
-Follow the Amazon[Book Seller List](https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
+Follow the Amazon [Book Seller List](https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
 Create a stactic web page to display a booklist and their information, including their image/title/autor/ranking.
 
 
