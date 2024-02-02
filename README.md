@@ -1,9 +1,9 @@
 ## Project Review
 
-This project was build with [netlify](https://rm-react-project-booklist.netlify.app/).
+This project is deployed on [netlify](https://rm-react-project-booklist.netlify.app/).
 
 
-## Project Introduction
+### Description
 
 Follow the Amazon [Book Seller List](https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
 Create a stactic web page to display a booklist and their information, including their image/title/autor/ranking.
